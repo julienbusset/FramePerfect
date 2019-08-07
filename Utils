@@ -4,3 +4,9 @@ Liens utiles pour moi-mêmes :
 - HTML5 audio : https://www.w3schools.com/html/html5_audio.asp
 - Do things in DOM using jQuery : https://www.w3schools.com/jquery/jquery_dom_add.asp
 - javascript OOC : https://openclassrooms.com/fr/courses/2984401-apprenez-a-coder-avec-javascript
+- doc CDN Mozilla sur HTMLAudioElement : https://developer.mozilla.org/fr/docs/Web/API/HTMLMediaElement
+- et un guide plus complet sur la manipulation de l'audio : https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery
+
+- sur les fonctions asynchrones (async) : https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Instructions/async_function
+- tuto callbacks, promises, async/await, et polyfill pour adapter au navigateurs anciens :
+https://www.youtube.com/watch?v=uUZxHkcidps
